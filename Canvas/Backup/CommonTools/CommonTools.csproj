@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6D83410F-1413-4671-994C-AF095C3E5937}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CommonTools</RootNamespace>
+    <AssemblyName>CommonTools</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <Compile Include="ColorPickerCtrl\ColorBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ColorPickerCtrl\ColorPickerCtrl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ColorPickerCtrl\ColorPickerCtrl.Designer.cs">
+      <DependentUpon>ColorPickerCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ColorPickerCtrl\ColorPickerDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ColorPickerCtrl\ColorPickerDialog.Designer.cs">
+      <DependentUpon>ColorPickerDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ColorPickerCtrl\ColorTable.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ColorPickerCtrl\ColorWheel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ColorPickerCtrl\ColorWheelCtrl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ColorPickerCtrl\ColorWheelCtrl.Designer.cs">
+      <DependentUpon>ColorWheelCtrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ColorPickerCtrl\EyedropColorPicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ColorPickerCtrl\HSLColor.cs" />
+    <Compile Include="ColorPickerCtrl\Resources\Images.cs" />
+    <Compile Include="ComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataBinding.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DropdownContainerControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editors.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LabelRotate.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Line.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="NameObject.cs" />
+    <Compile Include="PropertyDialog\PropertyDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PropertyDialog\PropertyDialog.Designer.cs">
+      <DependentUpon>PropertyDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PropertyDialog\PropertyDialogInterface.cs" />
+    <Compile Include="PropertyDialog\ViewMap.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PropertyUtil.cs" />
+    <Compile Include="RadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tracing.cs" />
+    <Compile Include="Util.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ColorPickerCtrl\ColorPickerCtrl.resx">
+      <DependentUpon>ColorPickerCtrl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ColorPickerCtrl\ColorPickerDialog.resx">
+      <DependentUpon>ColorPickerDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ColorPickerCtrl\ColorWheelCtrl.resx">
+      <DependentUpon>ColorWheelCtrl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PropertyDialog\PropertyDialog.resx">
+      <DependentUpon>PropertyDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ColorPickerCtrl\ColorPickerTest.csproj" />
+    <Content Include="ColorPickerCtrl\ColorPickerTest.csproj.user" />
+    <EmbeddedResource Include="ColorPickerCtrl\Resources\colorbarIndicators.bmp" />
+    <EmbeddedResource Include="ColorPickerCtrl\Resources\eyedropper.bmp" />
+    <EmbeddedResource Include="ColorPickerCtrl\Resources\popupcontainerbuttons.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+</Project>

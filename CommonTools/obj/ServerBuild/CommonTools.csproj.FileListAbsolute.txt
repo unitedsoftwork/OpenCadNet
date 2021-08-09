@@ -1,0 +1,15 @@
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\ServerBuild\CommonTools.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\ServerBuild\MoreLinq.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\ServerBuild\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\ServerBuild\System.ValueTuple.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\ServerBuild\MoreLinq.xml
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\ServerBuild\System.ValueTuple.xml
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\ServerBuild\CommonTools.csprojAssemblyReference.cache
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\ServerBuild\CommonTools.ColorPickerCtrl.resources
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\ServerBuild\CommonTools.ColorPickerDialog.resources
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\ServerBuild\CommonTools.ColorWheelCtrl.resources
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\ServerBuild\CommonTools.PropertyDialog.resources
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\ServerBuild\CommonTools.csproj.GenerateResource.cache
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\ServerBuild\CommonTools.csproj.CoreCompileInputs.cache
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\ServerBuild\CommonTools.csproj.CopyComplete
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\ServerBuild\CommonTools.dll

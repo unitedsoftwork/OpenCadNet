@@ -1,0 +1,192 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7E711C7B-41DC-46AE-9A06-0FEB6FF996B2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Canvas</RootNamespace>
+    <AssemblyName>Canvas</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CanvasCtrl\Canvas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CanvasCtrl\Canvas.Designer.cs">
+      <DependentUpon>Canvas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CanvasCtrl\CanvasInterfaces.cs" />
+    <Compile Include="DocumentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DocumentForm.Designer.cs">
+      <DependentUpon>DocumentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DrawTools\ArcCircle3PointTool.cs" />
+    <Compile Include="DrawTools\ArcCircleTool.cs" />
+    <Compile Include="DrawTools\DrawToolsUtils.cs" />
+    <Compile Include="DrawTools\LineTool.cs" />
+    <Compile Include="DrawTools\SnapPoints.cs" />
+    <Compile Include="EditTools\LineShrinkExtendEditTool.cs" />
+    <Compile Include="EditTools\LinesMeetEditTool.cs" />
+    <Compile Include="Layers\BackgroundLayer.cs" />
+    <Compile Include="Layers\DrawingLayer.cs" />
+    <Compile Include="Layers\GridLayer.cs" />
+    <Compile Include="MainWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainWin.Designer.cs">
+      <DependentUpon>MainWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model.cs" />
+    <Compile Include="Options\GridPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Options\GridPage.Designer.cs">
+      <DependentUpon>GridPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Options\LayersPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Options\LayersPage.Designer.cs">
+      <DependentUpon>LayersPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Options\OptionsConfig.cs" />
+    <Compile Include="Options\OptionsDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Options\OptionsDlg.Designer.cs">
+      <DependentUpon>OptionsDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\DataSources\Canvas.EditTools.LinePoints.datasource" />
+    <None Include="Properties\DataSources\Canvas.Options.OptionsBackground.datasource" />
+    <None Include="Properties\DataSources\Canvas.Options.OptionsBackground1.datasource" />
+    <None Include="Properties\DataSources\Canvas.Options.OptionsGrid.datasource" />
+    <None Include="Properties\DataSources\DrawingLayer.datasource" />
+    <None Include="Properties\DataSources\NameObject.datasource" />
+    <None Include="Properties\DataSources\System.Drawing.PointF.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Resources\CursorCollection.cs" />
+    <Compile Include="Resources\Images.cs" />
+    <Compile Include="Utils\GDIWrapper.cs" />
+    <Compile Include="Utils\MenuItemCollection.cs" />
+    <Compile Include="Utils\SerializeUtil.cs" />
+    <Compile Include="Utils\Undo.cs" />
+    <Compile Include="Utils\Utils.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CanvasCtrl\Canvas.resx">
+      <DependentUpon>Canvas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DocumentForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DocumentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainWin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainWin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\hmove.cur" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\menuimages.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="About.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\drawtoolimages.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Options\GridPage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GridPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Options\LayersPage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LayersPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Options\OptionsDlg.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OptionsDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\edittoolimages.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\CommonTools\CommonTools.csproj">
+      <Project>{6D83410F-1413-4671-994C-AF095C3E5937}</Project>
+      <Name>CommonTools</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,415 @@
+<CanvasDataModel>
+  <backgroundlayer>
+    <property name="Color" value="Color [Black]" />
+  </backgroundlayer>
+  <gridlayer>
+    <property name="Spacing" value="{Width=1, Height=1}" />
+    <property name="MinSize" value="15" />
+    <property name="GridStyle" value="Lines" />
+    <property name="Color" value="Color [A=50, R=128, G=128, B=128]" />
+    <property name="Enabled" value="True" />
+  </gridlayer>
+  <layer Id="layer0">
+    <property name="Color" value="Color [White]" />
+    <property name="Width" value="0" />
+    <property name="Name" value="Hairline Layer" />
+    <property name="Enabled" value="True" />
+    <property name="Visible" value="True" />
+    <items>
+      <circle>
+        <property name="Center" value="{X=8, Y=10}" />
+        <property name="Radius" value="2" />
+        <property name="StartAngle" value="0" />
+        <property name="EndAngle" value="0" />
+        <property name="Direction" value="kCCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </circle>
+      <arc3p>
+        <property name="P1" value="{X=6.58578634, Y=11.41421366}" />
+        <property name="P2" value="{X=8, Y=10}" />
+        <property name="P3" value="{X=8, Y=8}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+      <arc3p>
+        <property name="P1" value="{X=8, Y=8}" />
+        <property name="P2" value="{X=8, Y=10}" />
+        <property name="P3" value="{X=9.41421354, Y=11.41421366}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+      <arc3p>
+        <property name="P1" value="{X=9.41421354, Y=11.41421366}" />
+        <property name="P2" value="{X=8, Y=10}" />
+        <property name="P3" value="{X=6, Y=10}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+      <arc3p>
+        <property name="P1" value="{X=6, Y=10}" />
+        <property name="P2" value="{X=8, Y=10}" />
+        <property name="P3" value="{X=9.41421354, Y=8.58578643}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+      <arc3p>
+        <property name="P1" value="{X=9.41421354, Y=8.58578643}" />
+        <property name="P2" value="{X=8, Y=10}" />
+        <property name="P3" value="{X=8, Y=12}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+      <arc3p>
+        <property name="P1" value="{X=8, Y=12}" />
+        <property name="P2" value="{X=8, Y=10}" />
+        <property name="P3" value="{X=6.58578634, Y=8.58578643}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+      <arc3p>
+        <property name="P1" value="{X=6.58578634, Y=8.58578643}" />
+        <property name="P2" value="{X=7.9999999, Y=10}" />
+        <property name="P3" value="{X=10, Y=10}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+      <arc3p>
+        <property name="P1" value="{X=10, Y=10}" />
+        <property name="P2" value="{X=8, Y=10}" />
+        <property name="P3" value="{X=6.58578634, Y=11.41421366}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+      <arc3p>
+        <property name="P1" value="{X=4.75040436, Y=12.12342453}" />
+        <property name="P2" value="{X=8.00028229, Y=13.25000381}" />
+        <property name="P3" value="{X=11.2500391, Y=12.12307453}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+      <line>
+        <property name="P1" value="{X=11, Y=12}" />
+        <property name="P2" value="{X=11, Y=1}" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </line>
+      <line>
+        <property name="P1" value="{X=11, Y=1}" />
+        <property name="P2" value="{X=5, Y=1}" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </line>
+      <line>
+        <property name="P1" value="{X=5, Y=1}" />
+        <property name="P2" value="{X=5, Y=12}" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </line>
+      <line>
+        <property name="P1" value="{X=11.25, Y=12.12307453}" />
+        <property name="P2" value="{X=11.25, Y=0.75}" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </line>
+      <line>
+        <property name="P1" value="{X=4.75, Y=0.75}" />
+        <property name="P2" value="{X=4.75, Y=12.12393856}" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </line>
+      <arc3p>
+        <property name="P1" value="{X=5, Y=11.99999905}" />
+        <property name="P2" value="{X=8, Y=13}" />
+        <property name="P3" value="{X=10.99999809, Y=12.00000048}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+      <line>
+        <property name="P1" value="{X=11.5, Y=0.75}" />
+        <property name="P2" value="{X=4.5, Y=0.75}" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </line>
+      <line>
+        <property name="P1" value="{X=11.5, Y=0.61689663}" />
+        <property name="P2" value="{X=4.5, Y=0.61689663}" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </line>
+      <line>
+        <property name="P1" value="{X=4.5, Y=0.61689663}" />
+        <property name="P2" value="{X=4.5, Y=0.75}" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </line>
+      <line>
+        <property name="P1" value="{X=11.5, Y=0.75}" />
+        <property name="P2" value="{X=11.5, Y=0.61689663}" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </line>
+      <circle>
+        <property name="Center" value="{X=16, Y=10}" />
+        <property name="Radius" value="2" />
+        <property name="StartAngle" value="0" />
+        <property name="EndAngle" value="0" />
+        <property name="Direction" value="kCCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </circle>
+      <arc3p>
+        <property name="P1" value="{X=14.58578634, Y=11.41421366}" />
+        <property name="P2" value="{X=16, Y=10}" />
+        <property name="P3" value="{X=16, Y=8}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+      <arc3p>
+        <property name="P1" value="{X=16, Y=8}" />
+        <property name="P2" value="{X=16, Y=10}" />
+        <property name="P3" value="{X=17.41421354, Y=11.41421366}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+      <arc3p>
+        <property name="P1" value="{X=17.41421354, Y=11.41421366}" />
+        <property name="P2" value="{X=16, Y=10}" />
+        <property name="P3" value="{X=14, Y=10}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+      <arc3p>
+        <property name="P1" value="{X=14, Y=10}" />
+        <property name="P2" value="{X=16, Y=10}" />
+        <property name="P3" value="{X=17.41421354, Y=8.58578643}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+      <arc3p>
+        <property name="P1" value="{X=17.41421354, Y=8.58578643}" />
+        <property name="P2" value="{X=16, Y=10}" />
+        <property name="P3" value="{X=16, Y=12}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+      <arc3p>
+        <property name="P1" value="{X=16, Y=12}" />
+        <property name="P2" value="{X=16, Y=10}" />
+        <property name="P3" value="{X=14.58578634, Y=8.58578643}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+      <arc3p>
+        <property name="P1" value="{X=14.58578634, Y=8.58578643}" />
+        <property name="P2" value="{X=15.9999999, Y=10}" />
+        <property name="P3" value="{X=18, Y=10}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+      <arc3p>
+        <property name="P1" value="{X=18, Y=10}" />
+        <property name="P2" value="{X=16, Y=10}" />
+        <property name="P3" value="{X=14.58578634, Y=11.41421366}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+      <arc3p>
+        <property name="P1" value="{X=12.75040436, Y=12.12342453}" />
+        <property name="P2" value="{X=16.00028229, Y=13.25000381}" />
+        <property name="P3" value="{X=19.2500391, Y=12.12307453}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+      <line>
+        <property name="P1" value="{X=19, Y=12}" />
+        <property name="P2" value="{X=19, Y=1}" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </line>
+      <line>
+        <property name="P1" value="{X=19, Y=1}" />
+        <property name="P2" value="{X=13, Y=1}" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </line>
+      <line>
+        <property name="P1" value="{X=13, Y=1}" />
+        <property name="P2" value="{X=13, Y=12}" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </line>
+      <line>
+        <property name="P1" value="{X=19.25, Y=12.12307453}" />
+        <property name="P2" value="{X=19.25, Y=0.75}" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </line>
+      <line>
+        <property name="P1" value="{X=12.75, Y=0.75}" />
+        <property name="P2" value="{X=12.75, Y=12.12393856}" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </line>
+      <arc3p>
+        <property name="P1" value="{X=13, Y=11.99999905}" />
+        <property name="P2" value="{X=16, Y=13}" />
+        <property name="P3" value="{X=18.99999809, Y=12.00000048}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+      <line>
+        <property name="P1" value="{X=19.5, Y=0.75}" />
+        <property name="P2" value="{X=12.5, Y=0.75}" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </line>
+      <line>
+        <property name="P1" value="{X=19.5, Y=0.61689663}" />
+        <property name="P2" value="{X=12.5, Y=0.61689663}" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </line>
+      <line>
+        <property name="P1" value="{X=12.5, Y=0.61689663}" />
+        <property name="P2" value="{X=12.5, Y=0.75}" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </line>
+      <line>
+        <property name="P1" value="{X=19.5, Y=0.75}" />
+        <property name="P2" value="{X=19.5, Y=0.61689663}" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </line>
+      <arc3p>
+        <property name="P1" value="{X=-3, Y=12}" />
+        <property name="P2" value="{X=4, Y=14}" />
+        <property name="P3" value="{X=12, Y=14}" />
+        <property name="Direction" value="kCW" />
+        <property name="UseLayerWidth" value="True" />
+        <property name="UseLayerColor" value="True" />
+        <property name="Width" value="0" />
+        <property name="Color" value="Color [White]" />
+      </arc3p>
+    </items>
+  </layer>
+  <layer Id="layer1">
+    <property name="Color" value="Color [Red]" />
+    <property name="Width" value="0.005" />
+    <property name="Name" value="0.005 Layer" />
+    <property name="Enabled" value="True" />
+    <property name="Visible" value="True" />
+    <items />
+  </layer>
+  <layer Id="layer2">
+    <property name="Color" value="Color [Green]" />
+    <property name="Width" value="0.025" />
+    <property name="Name" value="0.025 Layer" />
+    <property name="Enabled" value="True" />
+    <property name="Visible" value="True" />
+    <items />
+  </layer>
+  <property name="CenterPoint" value="{X=9.49378681, Y=6.63312721}" />
+  <property name="Zoom" value="0.18381783" />
+</CanvasDataModel>

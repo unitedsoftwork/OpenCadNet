@@ -1,0 +1,9 @@
+SCC = This is a source code control file
+
+[ColorPickerTest.csproj]
+SCC_Aux_Path = "P4SCC#JesperVista-Hom:1666##jesper##JesperVista-Home"
+SCC_Project_Name = Perforce Project
+
+[CommonTools.csproj]
+SCC_Aux_Path = "P4SCC#JesperVista-Hom:1666##jesper##JesperVista-Home"
+SCC_Project_Name = Perforce Project

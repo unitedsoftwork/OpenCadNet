@@ -1,0 +1,45 @@
+C:\Users\philipg\Desktop\OpenSCAD_src\CommonTools\bin\Debug\CommonTools.dll
+C:\Users\philipg\Desktop\OpenSCAD_src\CommonTools\bin\Debug\CommonTools.pdb
+C:\Users\philipg\Desktop\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.csprojAssemblyReference.cache
+C:\Users\philipg\Desktop\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.ColorPickerCtrl.resources
+C:\Users\philipg\Desktop\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.ColorPickerDialog.resources
+C:\Users\philipg\Desktop\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.ColorWheelCtrl.resources
+C:\Users\philipg\Desktop\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.PropertyDialog.resources
+C:\Users\philipg\Desktop\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.csproj.GenerateResource.cache
+C:\Users\philipg\Desktop\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.csproj.CoreCompileInputs.cache
+C:\Users\philipg\Desktop\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.dll
+C:\Users\philipg\Desktop\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.pdb
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Debug\CommonTools.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Debug\CommonTools.pdb
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Debug\MoreLinq.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Debug\System.ValueTuple.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Debug\MoreLinq.xml
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Debug\System.ValueTuple.xml
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.ColorPickerCtrl.resources
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.ColorPickerDialog.resources
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.ColorWheelCtrl.resources
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.PropertyDialog.resources
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.csproj.GenerateResource.cache
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.csproj.CoreCompileInputs.cache
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.csproj.CopyComplete
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.pdb
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.csprojAssemblyReference.cache
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Debug\CommonTools.dll
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Debug\CommonTools.pdb
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Debug\MoreLinq.dll
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Debug\System.ValueTuple.dll
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Debug\MoreLinq.xml
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Debug\System.ValueTuple.xml
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.csprojAssemblyReference.cache
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.ColorPickerCtrl.resources
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.ColorPickerDialog.resources
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.ColorWheelCtrl.resources
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.PropertyDialog.resources
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.csproj.GenerateResource.cache
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.csproj.CoreCompileInputs.cache
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.csproj.CopyComplete
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.dll
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Debug\CommonTools.pdb

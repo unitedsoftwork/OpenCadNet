@@ -1,0 +1,72 @@
+C:\Users\philipg\Desktop\OpenSCAD_src\Canvas\Canvas\bin\Debug\Canvas.exe
+C:\Users\philipg\Desktop\OpenSCAD_src\Canvas\Canvas\bin\Debug\Canvas.pdb
+C:\Users\philipg\Desktop\OpenSCAD_src\Canvas\Canvas\bin\Debug\CommonTools.dll
+C:\Users\philipg\Desktop\OpenSCAD_src\Canvas\Canvas\bin\Debug\CommonTools.pdb
+C:\Users\philipg\Desktop\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.csprojAssemblyReference.cache
+C:\Users\philipg\Desktop\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.Properties.Resources.resources
+C:\Users\philipg\Desktop\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.CanvasCtrl.resources
+C:\Users\philipg\Desktop\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.DocumentForm.resources
+C:\Users\philipg\Desktop\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.MainWin.resources
+C:\Users\philipg\Desktop\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.About.resources
+C:\Users\philipg\Desktop\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.Options.GridPage.resources
+C:\Users\philipg\Desktop\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.Options.LayersPage.resources
+C:\Users\philipg\Desktop\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.Options.OptionsDlg.resources
+C:\Users\philipg\Desktop\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.csproj.GenerateResource.cache
+C:\Users\philipg\Desktop\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.csproj.CoreCompileInputs.cache
+C:\Users\philipg\Desktop\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.csproj.CopyComplete
+C:\Users\philipg\Desktop\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.exe
+C:\Users\philipg\Desktop\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.pdb
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\Canvas.dll.config
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\Canvas.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\Canvas.pdb
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\CommonTools.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\MoreLinq.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\netDxf.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\System.ValueTuple.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\netDxf.pdb
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\netDxf.xml
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\CommonTools.pdb
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\MoreLinq.xml
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\System.ValueTuple.xml
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.csprojAssemblyReference.cache
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.Properties.Resources.resources
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.CanvasCtrl.resources
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.DocumentForm.resources
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.MainWin.resources
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.About.resources
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.Options.GridPage.resources
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.Options.LayersPage.resources
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.Options.OptionsDlg.resources
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.csproj.GenerateResource.cache
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.csproj.CoreCompileInputs.cache
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.csproj.CopyComplete
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.pdb
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\Canvas.dll.config
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\Canvas.dll
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\Canvas.pdb
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\CommonTools.dll
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\MoreLinq.dll
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\netDxf.dll
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\System.ValueTuple.dll
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\netDxf.pdb
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\netDxf.xml
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\CommonTools.pdb
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\MoreLinq.xml
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\bin\Debug\System.ValueTuple.xml
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.csprojAssemblyReference.cache
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.Properties.Resources.resources
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.CanvasCtrl.resources
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.DocumentForm.resources
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.MainWin.resources
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.About.resources
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.Options.GridPage.resources
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.Options.LayersPage.resources
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.Options.OptionsDlg.resources
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.csproj.GenerateResource.cache
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.csproj.CoreCompileInputs.cache
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.csproj.CopyComplete
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.dll
+E:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\Canvas\Canvas\obj\Debug\Canvas.pdb

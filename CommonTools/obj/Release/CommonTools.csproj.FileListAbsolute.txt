@@ -1,0 +1,16 @@
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Release\CommonTools.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Release\CommonTools.pdb
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Release\MoreLinq.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Release\System.ValueTuple.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Release\MoreLinq.xml
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\bin\Release\System.ValueTuple.xml
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Release\CommonTools.ColorPickerCtrl.resources
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Release\CommonTools.ColorPickerDialog.resources
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Release\CommonTools.ColorWheelCtrl.resources
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Release\CommonTools.PropertyDialog.resources
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Release\CommonTools.csproj.GenerateResource.cache
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Release\CommonTools.csproj.CoreCompileInputs.cache
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Release\CommonTools.csproj.CopyComplete
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Release\CommonTools.dll
+C:\Users\philipg\Documents\Visual Studio 2015\Projects\DataHub\OpenSCAD_src\CommonTools\obj\Release\CommonTools.pdb
