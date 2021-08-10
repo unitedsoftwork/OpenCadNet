@@ -38,3 +38,6 @@ Short Term Goals:
 * Use NetDxf as the internal database for each entitiy type. (currently OpenCadNet transaltes the NetDxf objects into a class contained within OpenCadNet)
 * Fix zoom to point in canvas.cs
 
+Example of use as a .net component.
+![image](https://user-images.githubusercontent.com/27786150/128882044-0dde852c-ebdf-4e8b-b5b5-c28475f74775.png)
+
